@@ -29,16 +29,9 @@ implementation fileTree(dir: 'libs', include: ['*.jar'])
 
 ## 截图
 
-![](Image\2C7C$FSE0S]]9A$`%Y]0MJB.png)
-
-
-
-![](Image\N`]]`BIGLI@AQVMG]@5FJMN.png)
-
-![](Image\P{CK{C9$`Q%X1LUVBUCY.png)
-
-![](Image\RTNQF211]2P`E5}S9HN_WA.png)
-
-![](Image\UJ7QFYABZ~B$}O0QADS{J.png)
-
-![](Image\R92U%$~HP94AZ5ED{CYP%B.png)
+<img src="https://cdn.jsdelivr.net/gh/15822422666/PicGo/article/2C7C$FSE0S]]9A$`%Y]0MJB.png"/>
+<img src="https://cdn.jsdelivr.net/gh/15822422666/PicGo/article/N`]]`BIGLI@AQVMG]@5FJMN.png"/>
+<img src="https://cdn.jsdelivr.net/gh/15822422666/PicGo/article/R92U%$~HP94AZ5ED{CYP%B.png"/>
+<img src="https://cdn.jsdelivr.net/gh/15822422666/PicGo/article/P{CK{C9$`Q%X1LUVBUCY.png"/>
+<img src="https://cdn.jsdelivr.net/gh/15822422666/PicGo/article/UJ7QFYABZ~B$}O0QADS{J.png"/>
+<img src="https://cdn.jsdelivr.net/gh/15822422666/PicGo/article/RTNQF211]2P`E5}S9HN_WA.png"/>
